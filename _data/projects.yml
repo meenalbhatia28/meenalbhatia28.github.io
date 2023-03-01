@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Winnipeg Transit Database 
+  role: Primary Developer
+  duration: 2022 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: In this project we created ER diagram, normalized dataset, modelled data in SQLite and generated queries for Winnipeg’s Transit service.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Fitness Tracker Website 
+  role:  Organizer
+  duration: 2022 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: In this project we designed a website where user can select a particular muscle from the human body diagram and then drag the exercises from the list (pops up) to their planner, the user can further modify their personalized plans.
