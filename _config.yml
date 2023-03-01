@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Meenal Bhatia"
+resume_title:                   "Third year CS student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "meenalbhatia28@gmail.com"
