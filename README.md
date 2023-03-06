@@ -15,8 +15,11 @@
 
 ## Prerequisites
 - [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.
-
+- A GitHub account.Here is the [link](https://github.com/) to GitHub.
+- Jekyll Theme Templates (free):Here is a [link](https://jekyllthemes.io/theme/resume-template) to a free template I forked for hosting my resume.
 ## Instructions
+### The process of hosting a website with a Jekyll template by forking it from GitHub can be broken down into the following steps:
+
 
 ## Authors and Acknowledgment
 - Documentation by Meenal Bhatia
