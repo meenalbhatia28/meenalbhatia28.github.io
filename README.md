@@ -10,7 +10,7 @@
 ## Purpose
 ### This README file has 2  purposes :
 1. To offer clear instructions for hosting and formatting a resume using Markdown, VS Code, GitHub Pages, and Jekyll.
-2. To connect these practical steps with the broader principles of modern technical writing, as outlined in Andrew Etter's book "Modern Technical Writing."
+2. To connect these practical steps with the broader principles of modern technical writing, as outlined in Andrew Etter's book "Modern Technical Writing".
 
 
 ## Prerequisites
@@ -26,6 +26,10 @@
     - Yee Tsung Kao 
 
 ## More Resources
+- [Tutorial](https://www.youtube.com/watch?v=QUtk-Uuq9nE) on how to create a GitHub account.
+- [Link](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to Andrew Etter's book book "Modern Technical Writing"
+- Link to Markdown [Tutorial](https://www.markdowntutorial.com/lesson/1/)
+- Github flavoured [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown 
 
 ## FAQs
 ### What advantages does Markdown offer over a word processor?
