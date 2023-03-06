@@ -11,6 +11,20 @@
 ### Prerequisites
 ### Instructions
 ### Authors and Acknowledgment
+- Documentation by Meenal Bhatia
+- Jekyll Template forked from  [Joel Glovier](https://github.com/jglovier) 
+- I would like to express my gratitude to the members of my group
+    - Maxim Omelchenko
+    - Tirenioluwa Biodun-Kuti
+    - Yee Tsung Kao 
+
+
+
+
+
+
+
+
 ### More Resources
 ### FAQs
 
