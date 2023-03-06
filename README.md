@@ -14,6 +14,7 @@
 
 
 ## Prerequisites
+- [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.
 
 ## Instructions
 
