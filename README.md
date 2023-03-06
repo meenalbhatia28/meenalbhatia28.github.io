@@ -29,7 +29,7 @@
     - To alter your profile photo, access the "images" folder and upload the image of your choosing. After uploading, rename the image as "avatar.jpg" and     ensure that the previous "avatar.jpg" has been removed.
 _Make sure you commit changes side by side._
 6. **Publish Your Website** : After implementing the desired alterations to your website, commit and push the changes to your forked repository. Your website will then be accessible on the URL listed under the "GitHub Pages" section of your repository's settings.
-7. **Keep you Website Up-to-date** : To keep your website up-to-date and functioning properly, it is important to perform regular maintenance tasks. This includes updating the Jekyll version, fixing broken links, and monitoring any security vulnerabilities.
+7. **Keep your Website Up-to-date** : To keep your website up-to-date and functioning properly, it is important to perform regular maintenance tasks. This includes updating the Jekyll version, fixing broken links, and monitoring any security vulnerabilities.
 
 
 ## Authors and Acknowledgment
