@@ -4,9 +4,10 @@
 * [**Prerequisites**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#Prerequisites)
 * [**Instructions**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#Instructions)
 * [**Authors and Acknowledgment**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#authors-and-acknowledgment)
-
+* [**FAQs**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#FAQs)
 ### Purpose
 ### Prerequisites
 ### Instructions
 ### Authors and Acknowledgment
+### FAQs
 
