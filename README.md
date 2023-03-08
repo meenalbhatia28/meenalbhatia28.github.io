@@ -78,10 +78,19 @@ By the end of this section, you have:
    - skills
 7. Make changes in the _.yml_ files in _/_data/_ folder.
 8. Commit changes for each of the file in _/_data/_ folder side up side.
-9.Now go to images
+9. Now go to {username}.github.io/images/ and remove the already existing avatar.jpg .
+10. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
+11. Commit all the changes you made in images folder as well.
 ### Publishing your Website
 By the end of this section, you have:
-- Hosted your Website publically. 
+
+**Hosted your Website**
+If you have properly implemented all the previous steps ,you are ready to check your published resume.
+1. Click on the Settings tab located on the right side of the screen.
+2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
+3.
+
+
 ### Keeping your Website Up-to-Date
 By the end of this section, you have:
 - Learnt how to keep the website up-to-date
