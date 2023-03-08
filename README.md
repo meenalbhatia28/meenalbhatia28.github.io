@@ -75,13 +75,17 @@ By the end of this section, you have:
 2. Scroll down and go through all the files present in your template repository 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/scrolling.gif)
 
-3. Go to  _config.yml_ and make changes to your personal information.
+3. Go to  _config.yml_ 
 
-4. You can comment out the information from _config.yml_ that you are not interested in showing on your resume.
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goToConfig.gif)
 
-5. Make sure you commit all your changes made in _config.yml_ .
+4. Click on th pencil button so that you can edit the _config.yml_ .
 
-6. Now go to _/_data/_ folder to make changes in different sections of your resume like:
+5. You can change the pre-existing information with yours and comment out the information from _config.yml_ that you are not interested in showing on your resume.
+
+6. Make sure you commit all your changes made in _config.yml_ .
+
+7. Now go to _/_data/_ folder to make changes in different sections of your resume like:
    - associations
    - education
    - experience
@@ -90,11 +94,11 @@ By the end of this section, you have:
    - projects
    - recognitions
    - skills
-7. Make changes in the _.yml_ files in _/_data/_ folder.
-8. Commit changes for each of the file in _/_data/_ folder side up side.
-9. Now go to {username}.github.io/images/ and remove the already existing avatar.jpg .
-10. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
-11. Commit all the changes you made in images folder as well.
+8. Make changes in the _.yml_ files in _/_data/_ folder.
+9. Commit changes for each of the file in _/_data/_ folder side up side.
+10. Now go to {username}.github.io/images/ and remove the already existing avatar.jpg .
+11. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
+12. Commit all the changes you made in images folder as well.
 ### Publishing your Website
 By the end of this section, you have:
 
