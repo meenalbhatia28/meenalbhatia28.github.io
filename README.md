@@ -20,7 +20,6 @@
 - [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io) to GitHub repository of my resume template.
 ## Principles of Technical Writing
 ### 1. Using a Lightweight Markup Language
-
 ### 2.  Formatting a document with a static site generator
 ### 3. Hosting documents on a distributed version control system
 ## Instructions 
@@ -31,6 +30,7 @@ By the end of this section, you have:
 **Open the Jekyll template on GitHub**
 1. Click on the [link](https://jekyllthemes.io/theme/resume-template) to open the template that I used for my Resume.
 2. Click on the Button "Get Resume Template on GitHub" in order to open the template on the GitHub.
+![A GIF showing step 1](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/getResumeTemplate1.gif)
 
 ### Forking the template to your repository
 By the end of this section, you have:
@@ -88,7 +88,9 @@ By the end of this section, you have:
 If you have properly implemented all the previous steps ,you are ready to check your published resume.
 1. Click on the Settings tab located on the right side of the screen.
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
-3.
+3.Click on the button "visit site" under github pages to check your hosted site .
+If you followed all steps properly .Your website should look something like this.
+
 
 
 ### Keeping your Website Up-to-Date
