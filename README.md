@@ -19,15 +19,20 @@
 - A GitHub account : Here is the [link](https://github.com/) for sign up/log in to GitHub.
 - My Jekyll Theme Template: [Link](https://jekyllthemes.io/theme/resume-template) to resume template that i forked.
 ## Principles of Technical Writing
+
 ### 1. Using a Lightweight Markup Language
+
 ### 2.  Formatting a document with a static site generator
 ### 3. Hosting documents on a distributed version control system
+
 ## Instructions 
+
 ### Getting Jekyll Theme Template on GitHub
+
 By the end of this section, you have:
 - Opened the free Jekyll Theme Template(the template that i used for my resume) on GitHub repository.
 
-**Open the Jekyll template on GitHub**
+#### Open the Jekyll template on GitHub
 
 1. Click on the [link](https://jekyllthemes.io/theme/resume-template) to open the template that I used for my Resume.
 
@@ -36,19 +41,21 @@ By the end of this section, you have:
 ![A GIF showing step 1](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/getResumeTemplate1.gif)
 
 ### Forking the template to your repository
+
 By the end of this section, you have:
 - Forked the resume template on your repository
 
-**Fork the template on your repository**
+#### Fork the template on your repository
 
 1. Click on the "Fork" button located at the upper-right corner.
 ![A GIF showing step 2](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/ForkTheTemplate2.gif)
 
 ### Renaming the Repository
+
 By the end of this section, you have:
 - Renamed the template by your username
 
-**Rename the forked repository**
+#### Rename the forked repository
 
 Once forked ,you will  directly jump to the page where you can rename your repository.
 1. In the field provided, enter the new name for your repository as as {your-username}.github.io .
@@ -60,10 +67,11 @@ For examples :- for my repository it's meenalbhatia28.github.io .
 If there are no duplicate repositories present ,your new name will be automatically approved by a green tick .
 
 ### Activating GitHub Pages
+
 By the end of this section, you have:
 - Enabled the GitHub page settings of your repository.
 
-**Enable GitHub Pages**
+#### Enable GitHub Pages
 
 1. Click on the "Settings" tab located on top of screen.
 
@@ -78,10 +86,11 @@ By the end of this section, you have:
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/root_setting7.gif)
 
 ### Customizing your Website
+
 By the end of this section, you have:
 - Personalised your website according to your Information.
 
-**Customize your website** 
+#### Customize your website
 
 1.Go to code tab of your repository.
 
@@ -142,9 +151,11 @@ By the end of this section, you have:
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
 
 ### Publishing your Website
-By the end of this section, you have:
 
-**Hosted your Website**
+By the end of this section, you have:
+- Published your resume online.
+
+#### Hosted your Website
 
 If you have properly implemented all the previous steps ,you are ready to check your published resume.
 
@@ -166,10 +177,11 @@ Finally,If you followed all steps properly .Your website should look something l
 
 
 ### Keeping your Website Up-to-Date
+
 By the end of this section, you have:
 - Learnt how to keep the website up-to-date
 
-**Keep Website Up-to-Date**
+#### Keep Website Up-to-Date
 
 1. You can regularly edit your .yml files like you did under [Customizing your Website](https://github.com/meenalbhatia28/meenalbhatia28.github.io#customizing-your-website) so as to ensure that your website matches your latest experience , achievements ,etc.
 
