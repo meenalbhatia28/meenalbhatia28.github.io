@@ -38,7 +38,8 @@ By the end of this section, you have:
 
 **Fork the template on your repository**
 1. Click on the "Fork" button located at the upper-right corner.
-2. Login in to your GitHub account if you are not logged in your GitHub account.
+![A GIF showing step 2](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/ForkTheTemplate2.gif)
+
 
 ### Renaming the Repository
 By the end of this section, you have:
@@ -47,6 +48,7 @@ By the end of this section, you have:
  Once forked ,you will to page where you can rename your repository
 1. In the field provided, enter the new name for your repository as as {your-username}.github.io .
 For examples :-for my repository it meenalbhatia28.github.io .
+![A GIF showing step 3](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/rename3.gif)
 If there are no duplicate repositories present ,your new name will be automatically be saved my GitHub.
 
 ### Activating GitHub Pages
@@ -54,7 +56,9 @@ By the end of this section, you have:
 - Enabled the GitHub page settings of your repository.
 
 **Enable GitHub Pages**
-1. Click on the Settings tab located on the right side of the screen.
+1. Click on the Settings tab located on left side of screen.
+![A GIF showing step 4]()
+
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
 3. Under "Branch" select "gh-pages" so as to publish your website.
 ### Customizing your Website
@@ -64,6 +68,7 @@ By the end of this section, you have:
 **Customize your website** 
 1.Go to code tab of your repository.
 2. Scroll down and go through all the files present in your template repository 
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/code_tab.gif)
 3. Go to  _config.yml_ and make changes to your personal information.
 4. You can comment out the information from _config.yml_ that you are not interested in showing on your resume.
 5. Make sure you commit all your changes made in _config.yml_ .
@@ -90,7 +95,7 @@ If you have properly implemented all the previous steps ,you are ready to check 
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
 3.Click on the button "visit site" under github pages to check your hosted site .
 If you followed all steps properly .Your website should look something like this.
-
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/finalwebsite.gif)
 
 
 ### Keeping your Website Up-to-Date
