@@ -71,8 +71,11 @@ By the end of this section, you have:
 
 **Customize your website** 
 1.Go to code tab of your repository.
+
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_code.gif)
+
 2. Scroll down and go through all the files present in your template repository 
+
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/scrolling.gif)
 
 3. Go to  _config.yml_ 
@@ -81,9 +84,15 @@ By the end of this section, you have:
 
 4. Click on th pencil button so that you can edit the _config.yml_ .
 
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/edit_click_pencil.gif)
+
 5. You can change the pre-existing information with yours and comment out the information from _config.yml_ that you are not interested in showing on your resume.
 
-6. Make sure you commit all your changes made in _config.yml_ .
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/replace_info_in_config.gif)
+
+6. Scroll to the bottom of the screen and commit all your changes made in _config.yml_ .
+
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
 
 7. Now go to _/_data/_ folder to make changes in different sections of your resume like:
    - associations
