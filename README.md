@@ -22,20 +22,37 @@
 ### Getting Jekyll Theme Template on GitHub
 By the end of this section, you have:
 - Opened the free Jekyll Theme Template(the template that i used for my resume) on GitHub repository.
-** Open the Jekyll template on GitHub**
-1. Click on the [link](https://jekyllthemes.io/theme/resume-template) to open the template that I used for my Resume.
-2. click on the Button "Get Resume Template on GitHub" in order to open the template on the GitHub.
 
-### Forking the template to your own repository
+**Open the Jekyll template on GitHub**
+1. Click on the [link](https://jekyllthemes.io/theme/resume-template) to open the template that I used for my Resume.
+2. Click on the Button "Get Resume Template on GitHub" in order to open the template on the GitHub.
+
+### Forking the template to your repository
 By the end of this section, you have:
 - Forked the resume template on your repository
+
+**Fork the template on your repository**
+1. Click on the "Fork" button located at the upper-right corner.
+2. Login in to your GitHub account if you are not logged in your GitHub account.
 
 ### Renaming the Repository
 By the end of this section, you have:
 - Renamed the template by your username
+**Rename the forked repository**
+1. Click on the Settings tab located on the right side of the screen.
+2. Scroll down to the Repository name section.
+3. In the field provided, enter the new name for your repository as as {your-username}.github.io .
+For examples :-for my repository it meenalbhatia28.github.io .
+4. Click on the Rename button to save the changes.
+
 ### Activating GitHub Pages
 By the end of this section, you have:
 - Enabled the GitHub page settings of your repository.
+
+**Enable GitHub Pages**
+1. Click on the Settings tab located on the right side of the screen.
+2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
+3.
 ### Customizing your Website
 By the end of this section, you have:
 - Personalised your website according to your Information.
