@@ -73,11 +73,14 @@ By the end of this section, you have:
 1.Go to code tab of your repository.
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_code.gif)
 2. Scroll down and go through all the files present in your template repository 
-![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/code_tab.gif)
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/scrolling.gif)
 
 3. Go to  _config.yml_ and make changes to your personal information.
+
 4. You can comment out the information from _config.yml_ that you are not interested in showing on your resume.
+
 5. Make sure you commit all your changes made in _config.yml_ .
+
 6. Now go to _/_data/_ folder to make changes in different sections of your resume like:
    - associations
    - education
