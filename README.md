@@ -15,9 +15,9 @@
 
 
 ## Prerequisites
-- [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.
+- [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.(You might not need that if you follow my instructions.But can be helpful in understanding the syntax of markdown file.)
 - A GitHub account : Here is the [link](https://github.com/) for sign up/log in to GitHub.
-- [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io) to GitHub repository of my resume template.
+- My Jekyll Theme Template: [Link](https://jekyllthemes.io/theme/resume-template) to resume template that i forked.
 ## Principles of Technical Writing
 ### 1. Using a Lightweight Markup Language
 ### 2.  Formatting a document with a static site generator
