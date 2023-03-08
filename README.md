@@ -50,13 +50,14 @@ By the end of this section, you have:
 
 **Rename the forked repository**
 
-Once forked ,you will jump to page where you can rename your repository
+Once forked ,you will  directly jump to the page where you can rename your repository.
 1. In the field provided, enter the new name for your repository as as {your-username}.github.io .
-For examples :-for my repository it meenalbhatia28.github.io .
+
+For examples :- for my repository it's meenalbhatia28.github.io .
 
 ![A GIF showing step 3](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/rename3.gif)
 
-If there are no duplicate repositories present ,your new name will be automatically saved.
+If there are no duplicate repositories present ,your new name will be automatically approved by a green tick .
 
 ### Activating GitHub Pages
 By the end of this section, you have:
@@ -64,15 +65,16 @@ By the end of this section, you have:
 
 **Enable GitHub Pages**
 
-1. Click on the Settings tab located on left side of screen.
+1. Click on the "Settings" tab located on top of screen.
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/GOTOSETTINGS5.gif)
 
-2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
+2. Click on "Pages" tab under "Code and automation" present on left side of the screen.
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_pages_new.gif)
 
-3. Under "Branch" select "gh-pages" so as to publish your website.
+3. Under "Branch" select "gh-pages" so as to publish your website.Don't forget to click "save".
+
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/root_setting7.gif)
 
 ### Customizing your Website
@@ -85,11 +87,11 @@ By the end of this section, you have:
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_code.gif)
 
-2. Scroll down and go through all the files present in your template repository 
+2. Scroll down and go through all the files present in your template repository.It should look something like this : 
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/scrolling.gif)
 
-3. Go to  _config.yml_ 
+3. Go to  _config.yml_ .
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goToConfig.gif)
 
@@ -97,7 +99,7 @@ By the end of this section, you have:
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/edit_click_pencil.gif)
 
-5. You can change the pre-existing information with yours and comment out the information from _config.yml_ that you are not interested in showing on your resume.
+5. You can change the pre-existing information with yours and comment out the information from _config.yml_ that you are not interested in showing on your resume.Just like the way i replaced the default name with my own ,see below:
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/replace_info_in_config.gif)
 
