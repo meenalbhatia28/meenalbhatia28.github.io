@@ -57,16 +57,19 @@ By the end of this section, you have:
 
 **Enable GitHub Pages**
 1. Click on the Settings tab located on left side of screen.
-![A GIF showing step 4]()
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/GOTOSETTINGS5.gif)
 
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goToPages.gif)
 3. Under "Branch" select "gh-pages" so as to publish your website.
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/root_setting7.gif)
 ### Customizing your Website
 By the end of this section, you have:
 - Personalised your website according to your Information.
 
 **Customize your website** 
 1.Go to code tab of your repository.
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_code.gif)
 2. Scroll down and go through all the files present in your template repository 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/code_tab.gif)
 3. Go to  _config.yml_ and make changes to your personal information.
