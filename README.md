@@ -44,11 +44,10 @@ By the end of this section, you have:
 By the end of this section, you have:
 - Renamed the template by your username
 **Rename the forked repository**
-1. Click on the Settings tab located on the right side of the screen.
-2. Scroll down to the Repository name section.
-3. In the field provided, enter the new name for your repository as as {your-username}.github.io .
+ Once forked ,you will to page where you can rename your repository
+1. In the field provided, enter the new name for your repository as as {your-username}.github.io .
 For examples :-for my repository it meenalbhatia28.github.io .
-4. Click on the Rename button to save the changes.
+If there are no duplicate repositories present ,your new name will be automatically be saved my GitHub.
 
 ### Activating GitHub Pages
 By the end of this section, you have:
@@ -57,10 +56,29 @@ By the end of this section, you have:
 **Enable GitHub Pages**
 1. Click on the Settings tab located on the right side of the screen.
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
-3.
+3. Under "Branch" select "gh-pages" so as to publish your website.
 ### Customizing your Website
 By the end of this section, you have:
 - Personalised your website according to your Information.
+
+**Customize your website** 
+1.Go to code tab of your repository.
+2. Scroll down and go through all the files present in your template repository 
+3. Go to  _config.yml_ and make changes to your personal information.
+4. You can comment out the information from _config.yml_ that you are not interested in showing on your resume.
+5. Make sure you commit all your changes made in _config.yml_ .
+6. Now go to _/_data/_ folder to make changes in different sections of your resume like:
+   - associations
+   - education
+   - experience
+   - interest
+   - links
+   - projects
+   - recognitions
+   - skills
+7. Make changes in the _.yml_ files in _/_data/_ folder.
+8. Commit changes for each of the file in _/_data/_ folder side up side.
+9.Now go to images
 ### Publishing your Website
 By the end of this section, you have:
 - Hosted your Website publically. 
