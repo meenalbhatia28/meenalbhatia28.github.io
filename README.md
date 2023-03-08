@@ -56,7 +56,7 @@ For examples :-for my repository it meenalbhatia28.github.io .
 
 ![A GIF showing step 3](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/rename3.gif)
 
-If there are no duplicate repositories present ,your new name will be automatically be saved my GitHub.
+If there are no duplicate repositories present ,your new name will be automatically saved.
 
 ### Activating GitHub Pages
 By the end of this section, you have:
