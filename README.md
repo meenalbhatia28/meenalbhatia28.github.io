@@ -94,7 +94,7 @@ By the end of this section, you have:
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
 
-7. Now go to _/_data/_ folder to make changes in different sections of your resume like:
+7. Now go to _/_data/_ folder  under "code" tab to make changes in different sections of your resume like:
    - associations
    - education
    - experience
@@ -103,7 +103,11 @@ By the end of this section, you have:
    - projects
    - recognitions
    - skills
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goTo_datafile.gif)
+
 8. Make changes in the _.yml_ files in _/_data/_ folder.
+![A GIF showing step 4]()
+
 9. Commit changes for each of the file in _/_data/_ folder side up side.
 10. Now go to {username}.github.io/images/ and remove the already existing avatar.jpg .
 11. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
