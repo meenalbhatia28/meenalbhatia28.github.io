@@ -40,7 +40,6 @@ By the end of this section, you have:
 1. Click on the "Fork" button located at the upper-right corner.
 ![A GIF showing step 2](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/ForkTheTemplate2.gif)
 
-
 ### Renaming the Repository
 By the end of this section, you have:
 - Renamed the template by your username
@@ -49,6 +48,7 @@ By the end of this section, you have:
 1. In the field provided, enter the new name for your repository as as {your-username}.github.io .
 For examples :-for my repository it meenalbhatia28.github.io .
 ![A GIF showing step 3](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/rename3.gif)
+
 If there are no duplicate repositories present ,your new name will be automatically be saved my GitHub.
 
 ### Activating GitHub Pages
@@ -61,8 +61,10 @@ By the end of this section, you have:
 
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goToPages.gif)
+
 3. Under "Branch" select "gh-pages" so as to publish your website.
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/root_setting7.gif)
+
 ### Customizing your Website
 By the end of this section, you have:
 - Personalised your website according to your Information.
@@ -72,6 +74,7 @@ By the end of this section, you have:
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_code.gif)
 2. Scroll down and go through all the files present in your template repository 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/code_tab.gif)
+
 3. Go to  _config.yml_ and make changes to your personal information.
 4. You can comment out the information from _config.yml_ that you are not interested in showing on your resume.
 5. Make sure you commit all your changes made in _config.yml_ .
