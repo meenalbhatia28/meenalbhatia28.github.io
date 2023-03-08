@@ -121,14 +121,13 @@ By the end of this section, you have:
 
 10. Now go to {username}.github.io/images/ folder  
 
-![A GIF showing step 4]()
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goto_image_folder_new.gif)
 
 11. Remove the already existing avatar.jpg .
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/remove_old_avatar.gif)
 
-12. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
-
+12. Uplaod your own photo to the same {username}.github.io/images/ folder and rename it to avatar.jpg.
 
 13. Commit all the changes you made in images folder as well.
 
@@ -160,9 +159,8 @@ Finally,If you followed all steps properly .Your website should look something l
 ### Keeping your Website Up-to-Date
 By the end of this section, you have:
 - Learnt how to keep the website up-to-date
-
-
-
+**Keep Website Up-to-Date**
+1. You can regularly edit your .yml files like you did above so as to ensure that your website matches your latest experience , achievements ,etc.
 
 ## Authors and Acknowledgment
 - Documentation by Meenal Bhatia
@@ -174,7 +172,7 @@ By the end of this section, you have:
 
 ## More Resources
 - [Tutorial](https://www.youtube.com/watch?v=QUtk-Uuq9nE) on how to create a GitHub account.
-- [Link](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to Andrew Etter's book book "Modern Technical Writing"
+- [Link](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) to Andrew         Etter's book book "Modern Technical Writing"
 - Link to Markdown [Tutorial](https://www.markdowntutorial.com/lesson/1/)
 - Github flavoured [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown 
 
