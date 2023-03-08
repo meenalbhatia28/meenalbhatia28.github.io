@@ -17,26 +17,36 @@
 - [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.
 - A GitHub account : Here is the [link](https://github.com/) for sign up/log in to GitHub.
 - [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io) to GitHub repository of my resume template.
-## Instructions
-### The process of hosting a website with my template can be broken down into the following steps:
-1. **Go to my repository** : Begin by navigating to this link .This is the link to my   free Jekyll Theme Template with which you can host your own resume. This template is chosen considering Andrew Etter’s advice .As he emphasis on  design, functionality, and user reviews of available templates when creating technical documents. 
 
-2. **Fork the Jekyll template repository** : Now, you are in GitHub repository of my template .Select the "Fork" button located at the upper-right corner ,this way you will obtain the Jekyll template repository and generate a duplicate under your own GitHub account. This step   promotes users  collaboration as mentioned  in Andrew Etter’s book.
+## Instructions 
+### Getting Jekyll Theme Template on GitHub
+By the end of this section, you have:
+- Opened the free Jekyll Theme Template(the template that i used for my resume) on GitHub repository.
+** Open the Jekyll template on GitHub**
+1. Click on the [link](https://jekyllthemes.io/theme/resume-template) to open the template that I used for my Resume.
+2. click on the Button "Get Resume Template on GitHub" in order to open the template on the GitHub.
 
-3. **Rename the repository** : Rename the cloned repository as {your-username}.github.io and save the updated changes after successfully forking the Jekyll template repository. As Andrew Etter emphasizes the importance of personalizing and customizing documentation to reflect your brand and values in his book "Modern Technical Communication” .It is important that we rename the  site by our domain.
+### Forking the template to your own repository
+By the end of this section, you have:
+- Forked the resume template on your repository
+
+### Renaming the Repository
+By the end of this section, you have:
+- Renamed the template by your username
+### Activating GitHub Pages
+By the end of this section, you have:
+- Enabled the GitHub page settings of your repository.
+### Customizing your Website
+By the end of this section, you have:
+- Personalised your website according to your Information.
+### Publishing your Website
+By the end of this section, you have:
+- Hosted your Website publically. 
+### Keeping your Website Up-to-Date
+By the end of this section, you have:
+- Learnt how to keep the website up-to-date
 
 
-4. **Activate GitHub Pages** : Now, Click on the "Settings" tab. Next, navigate to the "Pages" section located under "Code and automation" on the left-hand side of the screen. Here, ensure that the root branch has been selected under the "Branch" section and then save the changes. This step will make sure that your resume is hosted publicly, and anyone can see that . As outlined in Etter’s book "Modern Technical Communication“ it  is essential in ensuring that your technical documentation is easily accessible and can be accessible  by a wider audience. 
-
-5.  **Customize your website** :  To modify content such as education, experience, links, projects, skills, associations, etc., navigate to _/_data/_ and adjust any or all of the files   to suit your preferences. In his book "Modern Technical Communication," Andrew Etter emphasizes the importance of personalizing and customizing your technical documentation to reflect your brand and values. To achieve this  its important to make desired personal changes to my template.
-
- 6.  **Update personal information and layout** : Next, make changes in _config.yml_ to update your personal information. You can also comment out any sections you want to hide on the template. This step will help you decide what contents from data file you want to keep on layout. Adding further to Andrew’s  above-mentioned principles ,customization helps you to create   a unique and personalized technical documentation that resonates with your audience and effectively conveys your message.
-
- 7.  **Upload profile photo on resume template** : To alter your profile photo, access the "images" folder and upload the image of your choosing. After uploading, rename the image as "avatar.jpg" and     ensure that the previous "avatar.jpg" has been removed.
-
-8. **Publish Your Website** : After implementing the desired alterations to your website, commit and push the changes to your forked repository. Your website will then be accessible on the URL listed under the "GitHub Pages" section of your repository's settings.
-
-9. **Keep you Website Up to date** : To keep your website up-to-date and functioning properly, it is important to perform regular maintenance tasks. This includes updating the Jekyll version, fixing broken links, and monitoring any security vulnerabilities.
 
 
 ## Authors and Acknowledgment
