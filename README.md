@@ -64,7 +64,8 @@ By the end of this section, you have:
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/GOTOSETTINGS5.gif)
 
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
-![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goToPages.gif)
+
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_pages_new.gif)
 
 3. Under "Branch" select "gh-pages" so as to publish your website.
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/root_setting7.gif)
@@ -137,7 +138,11 @@ If you have properly implemented all the previous steps ,you are ready to check 
 
 2. Click on the "Pages" tab under "Code and automation" on the left side of the screen.
 
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_pages_new.gif)
+
 3.Click on the button "visit site" under github pages to check your hosted site .
+
+![A GIF showing step 4]()
 
 Finally,If you followed all steps properly .Your website should look something like this.
 
