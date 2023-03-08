@@ -103,15 +103,25 @@ By the end of this section, you have:
    - projects
    - recognitions
    - skills
+
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/goTo_datafile.gif)
 
-8. Make changes in the _.yml_ files in _/_data/_ folder.
-![A GIF showing step 4]()
+8. Make changes in the _.yml_ files present in _/_data/_ folder.
 
-9. Commit changes for each of the file in _/_data/_ folder side up side.
-10. Now go to {username}.github.io/images/ and remove the already existing avatar.jpg .
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/inside_data_folder.gif)
+
+9. Scroll to the bottom of the screen and commit changes for each of the file in _/_data/_ folder side up side.
+
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
+
+10. Now go to {username}.github.io/images/ folder  and remove the already existing avatar.jpg .
+
 11. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
+
 12. Commit all the changes you made in images folder as well.
+
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
+
 ### Publishing your Website
 By the end of this section, you have:
 
