@@ -119,11 +119,18 @@ By the end of this section, you have:
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
 
-10. Now go to {username}.github.io/images/ folder  and remove the already existing avatar.jpg .
+10. Now go to {username}.github.io/images/ folder  
 
-11. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
+![A GIF showing step 4]()
 
-12. Commit all the changes you made in images folder as well.
+11. Remove the already existing avatar.jpg .
+
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/remove_old_avatar.gif)
+
+12. Uplaod your own photo to {username}.github.io/images/ folder and rename it to avatar.jpg.
+
+
+13. Commit all the changes you made in images folder as well.
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/commitchange.gif)
 
