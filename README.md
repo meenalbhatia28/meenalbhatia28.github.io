@@ -132,6 +132,7 @@ By the end of this section, you have:
 
 **Hosted your Website**
 If you have properly implemented all the previous steps ,you are ready to check your published resume.
+
 1. Click on the Settings tab located on the right side of the screen.
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/GOTOSETTINGS5.gif)
@@ -142,7 +143,7 @@ If you have properly implemented all the previous steps ,you are ready to check 
 
 3.Click on the button "visit site" under github pages to check your hosted site .
 
-![A GIF showing step 4]()
+![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/visit_site.gif)
 
 Finally,If you followed all steps properly .Your website should look something like this.
 
