@@ -3,6 +3,7 @@
 * [**Title**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#host-a-resume-with-the-help-of-markdown--jekyll-vs-code-and-github-pages)
 * [**Purpose**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#Purpose)
 * [**Prerequisites**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#Prerequisites)
+* [**Principles of Technical Writing**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#Principles-of-Technical-Writing)
 * [**Instructions**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#Instructions)
 * [**Authors and Acknowledgment**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#authors-and-acknowledgment)
 * [**More Resources**](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/README.md#More-Resources)
@@ -17,7 +18,11 @@
 - [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.
 - A GitHub account : Here is the [link](https://github.com/) for sign up/log in to GitHub.
 - [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io) to GitHub repository of my resume template.
+## Principles of Technical Writing
+### 1. Using a Lightweight Markup Language
 
+### 2.  Formatting a document with a static site generator
+### 3. Hosting documents on a distributed version control system
 ## Instructions 
 ### Getting Jekyll Theme Template on GitHub
 By the end of this section, you have:
