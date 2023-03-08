@@ -28,7 +28,9 @@ By the end of this section, you have:
 - Opened the free Jekyll Theme Template(the template that i used for my resume) on GitHub repository.
 
 **Open the Jekyll template on GitHub**
+
 1. Click on the [link](https://jekyllthemes.io/theme/resume-template) to open the template that I used for my Resume.
+
 2. Click on the Button "Get Resume Template on GitHub" in order to open the template on the GitHub.
 
 ![A GIF showing step 1](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/getResumeTemplate1.gif)
@@ -38,15 +40,17 @@ By the end of this section, you have:
 - Forked the resume template on your repository
 
 **Fork the template on your repository**
-1. Click on the "Fork" button located at the upper-right corner.
 
+1. Click on the "Fork" button located at the upper-right corner.
 ![A GIF showing step 2](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/ForkTheTemplate2.gif)
 
 ### Renaming the Repository
 By the end of this section, you have:
 - Renamed the template by your username
+
 **Rename the forked repository**
- Once forked ,you will to page where you can rename your repository
+
+Once forked ,you will jump to page where you can rename your repository
 1. In the field provided, enter the new name for your repository as as {your-username}.github.io .
 For examples :-for my repository it meenalbhatia28.github.io .
 
@@ -59,6 +63,7 @@ By the end of this section, you have:
 - Enabled the GitHub page settings of your repository.
 
 **Enable GitHub Pages**
+
 1. Click on the Settings tab located on left side of screen.
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/GOTOSETTINGS5.gif)
@@ -75,6 +80,7 @@ By the end of this section, you have:
 - Personalised your website according to your Information.
 
 **Customize your website** 
+
 1.Go to code tab of your repository.
 
 ![A GIF showing step 4](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/images/go_to_code.gif)
@@ -137,6 +143,7 @@ By the end of this section, you have:
 By the end of this section, you have:
 
 **Hosted your Website**
+
 If you have properly implemented all the previous steps ,you are ready to check your published resume.
 
 1. Click on the Settings tab located on the right side of the screen.
@@ -159,8 +166,10 @@ Finally,If you followed all steps properly .Your website should look something l
 ### Keeping your Website Up-to-Date
 By the end of this section, you have:
 - Learnt how to keep the website up-to-date
+
 **Keep Website Up-to-Date**
-1. You can regularly edit your .yml files like you did above so as to ensure that your website matches your latest experience , achievements ,etc.
+
+1. You can regularly edit your .yml files like you did under [Customizing your Website](https://github.com/meenalbhatia28/meenalbhatia28.github.io#customizing-your-website) so as to ensure that your website matches your latest experience , achievements ,etc.
 
 ## Authors and Acknowledgment
 - Documentation by Meenal Bhatia
