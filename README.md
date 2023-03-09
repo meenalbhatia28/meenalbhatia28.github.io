@@ -15,30 +15,30 @@
 
 
 ## Prerequisites
-- [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.(You might not need that if you follow my instructions.But can be helpful in understanding the syntax of markdown file.)
+- [Link](https://github.com/meenalbhatia28/meenalbhatia28.github.io/blob/gh-pages/RESUME.md) to my resume formatted in Markdown.(You might not need that if you follow my instructions.But can be helpful in understanding markdown syntax.)
 - A GitHub account : Here is the [link](https://github.com/) for sign up/log in to GitHub.
 - My Jekyll Theme Template: [Link](https://jekyllthemes.io/theme/resume-template) to resume template that i forked.
 ## Principles of Technical Writing
 
 ### 1. Using a Lightweight Markup Language
 
-Andrew Etter argues in his book "Modern Technical Communication" that using a Lightweight Markup Language (LML) is beneficial for technical writers for several reasons.
+Andrew Etter mentions in his book "Modern Technical Communication" that using a Lightweight Markup Language (LML) is beneficial for technical writers for several reasons like:
 
-  - Firstly, LMLs are simple and easy to learn. Compared to other programming languages or markup languages, LMLs have a smaller set of rules and syntax, which makes them easier to read, write, and edit. This simplicity can save time and reduce errors in documentation.
+  - Firstly, LMLs are simple and easy to learn. Compared to other programming languages or markup languages, Lightweight Markup Languages have a smaller set of rules and syntax, which makes them easier to read, write, and edit. This simplicity can save time and reduce errors in documentation.Etter's this principle is implemented on my Resume Hosting Instructions too as you can follow steps and generate your own website.
   
-  - Secondly, LMLs separate content from formatting. This means that the writer can focus on creating the content without worrying about the layout or design.By using LMLs, technical writers can ensure that their documentation remains consistent in terms of style and formatting, which can enhance readability and usability for the end-users. 
- 
+  - Secondly, LMLs separate content from formatting. This means that the writer can focus on creating the content without worrying about the layout or design.By using LMLs, technical writers can ensure that their documentation remains consistent in terms of style and formatting, which can enhance readability and usability for the end-users.Like someone not from computer background can also fork my website easily and make desired changes accordingly.
+  
 ### 2.  Formatting a document with a static site generator
 
-  - Firstly,Etter believes that static websites are ideal for projects that don't require complex functionality or frequent updates. They are simple, fast, and easy to maintain.
+  - Firstly,Etter believes that static websites are ideal for projects that don't require complex functionality or frequent updates. They are simple, fast, and easy to maintain.That's one of the key reason i chose jekyll static site generator to host my resume.
   
-  - Secondly, Hosting a resume on GitHub Pages is an example of using a static website. By editing the config.yml and files in the /data/ folder, updating the contents of the resume is effortless. Once changes are committed to the repository, the updates are immediately visible.
+  - Secondly, Hosting a resume on GitHub Pages is an example of using a static website. By editing the config.yml and files in the /data/ folder, updating the contents of the resume is effortless. Once changes are committed to the repository, the updates are immediately visible.You can easily commit changes and check them on your hosted website side by side while following my instructions.
 
 ### 3. Hosting documents on a distributed version control system
 
  In "Modern Technical Communication," Andrew Etter argues in favor of using a distributed version control system (DVCS) due to it's numerous   advantages like :
  
- - Firstly, it offers an added benefit of maintaining a comprehensive record of all modifications made to a document, including the identity of the person who made them and the precise time they were made.Like , for my "meenalbhatia28.github.io" repository as well it has records of all the commits made since day one of this project .So in case I want to jump back to my older version of Resume in future I can easily do that.
+ - Firstly, it offers an added benefit of maintaining a comprehensive record of all modifications made to a document, including the identity of the person who made them and the precise time they were made.Like , for my "meenalbhatia28.github.io" repository as well it has records of all the commits made since day one of the project .So in case I want to jump back to my older version of Resume in future I can easily do that.
  
  - Secondly,One of the main advantages of using a DVCS, such as Git , is that it allows for collaborative editing and version control. This means that multiple authors can work on the same document simultaneously, without fear of overwriting each other's work.In my case if someone wants to use my repository for their own project they can simply fork it on their own repository and can start working on it .
 
