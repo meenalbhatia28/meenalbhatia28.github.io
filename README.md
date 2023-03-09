@@ -22,8 +22,20 @@
 
 ### 1. Using a Lightweight Markup Language
 
+Andrew Etter argues in his book "Modern Technical Communication" that using a Lightweight Markup Language (LML) is beneficial for technical writers for several reasons.
+  - Firstly, LMLs are simple and easy to learn. Compared to other programming languages or markup languages, LMLs have a smaller set of rules and syntax, which makes them easier to read, write, and edit. This simplicity can save time and reduce errors in documentation.
+  
+  - Secondly, LMLs separate content from formatting. This means that the writer can focus on creating the content without worrying about the layout or design.By using LMLs, technical writers can ensure that their documentation remains consistent in terms of style and formatting, which can enhance readability and usability for the end-users. 
+ 
 ### 2.  Formatting a document with a static site generator
+
+  - Firstly,Etter believes that static websites are ideal for projects that don't require complex functionality or frequent updates. They are simple, fast, and easy to maintain.
+  
+  - Secondly, Hosting a resume on GitHub Pages is an example of using a static website. By editing the config.yml and files in the /data/ folder, updating the contents of the resume is effortless. Once changes are committed to the repository, the updates are immediately visible.
+
 ### 3. Hosting documents on a distributed version control system
+
+In "Modern Technical Communication," Andrew Etter argues in favor of utilizing a distributed version control system (DVCS) due to the numerous advantages it offers compared to conventional document management approaches.
 
 ## Instructions 
 
