@@ -26,13 +26,13 @@ Andrew Etter mentions in his book "Modern Technical Communication" that using a 
 
   - Firstly, LMLs are simple and easy to learn. Compared to other programming languages or markup languages, Lightweight Markup Languages have a smaller set of rules and syntax, which makes them easier to read, write, and edit. This simplicity can save time and reduce errors in documentation.Etter's this principle is implemented on my Resume Hosting Instructions too as you can follow steps and generate your own website.
   
-  - Secondly, LMLs separate content from formatting. This means that the writer can focus on creating the content without worrying about the layout or design.By using LMLs, technical writers can ensure that their documentation remains consistent in terms of style and formatting, which can enhance readability and usability for the end-users.Like someone not from computer background can also fork my website easily and make desired changes accordingly.
+  - Secondly, LMLs separate content from formatting. This means that the writer can focus on creating the content without worrying about the layout or design.By using LMLs, technical writers can ensure that their documentation remains consistent in terms of style and formatting, which can enhance readability and usability for the end-users.It promotes simplicity which means someone from non technical background can also fork my website easily and make desired changes to it.
   
 ### 2.  Formatting a document with a static site generator
 
-  - Firstly,Etter believes that static websites are ideal for projects that don't require complex functionality or frequent updates. They are simple, fast, and easy to maintain.That's one of the key reason i chose jekyll static site generator to host my resume.
+  - Firstly,Etter believes that static websites are ideal for projects that don't require complex functionality or frequent updates. They are simple, fast, and easy to maintain.That's one of the key reason i chose jekyll static site generator to host my resume.You can simply launch your website in 20-30 minutes.
   
-  - Secondly, Hosting a resume on GitHub Pages is an example of using a static website. By editing the config.yml and files in the /data/ folder, updating the contents of the resume is effortless. Once changes are committed to the repository, the updates are immediately visible.You can easily commit changes and check them on your hosted website side by side while following my instructions.
+  - Secondly, Hosting a resume on GitHub Pages is an example of using a static website. By editing the config.yml and files in the /data/ folder, updating the contents of the resume is effortless. Once changes are committed to the repository, the updates are immediately visible.
 
 ### 3. Hosting documents on a distributed version control system
 
