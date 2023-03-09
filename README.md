@@ -23,6 +23,7 @@
 ### 1. Using a Lightweight Markup Language
 
 Andrew Etter argues in his book "Modern Technical Communication" that using a Lightweight Markup Language (LML) is beneficial for technical writers for several reasons.
+
   - Firstly, LMLs are simple and easy to learn. Compared to other programming languages or markup languages, LMLs have a smaller set of rules and syntax, which makes them easier to read, write, and edit. This simplicity can save time and reduce errors in documentation.
   
   - Secondly, LMLs separate content from formatting. This means that the writer can focus on creating the content without worrying about the layout or design.By using LMLs, technical writers can ensure that their documentation remains consistent in terms of style and formatting, which can enhance readability and usability for the end-users. 
@@ -35,7 +36,11 @@ Andrew Etter argues in his book "Modern Technical Communication" that using a Li
 
 ### 3. Hosting documents on a distributed version control system
 
-In "Modern Technical Communication," Andrew Etter argues in favor of utilizing a distributed version control system (DVCS) due to the numerous advantages it offers compared to conventional document management approaches.
+ In "Modern Technical Communication," Andrew Etter argues in favor of using a distributed version control system (DVCS) due to it's numerous   advantages like :
+ 
+ -First, it offers an added benefit of maintaining a comprehensive record of all modifications made to a document, including the identity of the person who made them and the precise time they were made.Like , for my "meenalbhatia28.github.io" repository as well it has records of all the commits made since day one of this project .So in case I want to jump back to my older version of Resume in future I can easily do that.
+ 
+ - Secondly,One of the main advantages of using a DVCS, such as Git , is that it allows for collaborative editing and version control. This means that multiple authors can work on the same document simultaneously, without fear of overwriting each other's work.In my case if someone wants to use my repository for their own project they can simply fork it on their own repository and can start working on it .
 
 ## Instructions 
 
