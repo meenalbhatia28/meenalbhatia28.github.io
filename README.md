@@ -38,7 +38,7 @@ Andrew Etter argues in his book "Modern Technical Communication" that using a Li
 
  In "Modern Technical Communication," Andrew Etter argues in favor of using a distributed version control system (DVCS) due to it's numerous   advantages like :
  
- -First, it offers an added benefit of maintaining a comprehensive record of all modifications made to a document, including the identity of the person who made them and the precise time they were made.Like , for my "meenalbhatia28.github.io" repository as well it has records of all the commits made since day one of this project .So in case I want to jump back to my older version of Resume in future I can easily do that.
+ - Firstly, it offers an added benefit of maintaining a comprehensive record of all modifications made to a document, including the identity of the person who made them and the precise time they were made.Like , for my "meenalbhatia28.github.io" repository as well it has records of all the commits made since day one of this project .So in case I want to jump back to my older version of Resume in future I can easily do that.
  
  - Secondly,One of the main advantages of using a DVCS, such as Git , is that it allows for collaborative editing and version control. This means that multiple authors can work on the same document simultaneously, without fear of overwriting each other's work.In my case if someone wants to use my repository for their own project they can simply fork it on their own repository and can start working on it .
 
